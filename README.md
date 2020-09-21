@@ -1,2 +1,2 @@
-# Platformproject
-This project deals with a system for assigning the ticket in railway domain which helps the user to identify their allocated train information in an easy manner.
+# PlatformNumberAssignment
+A mini project to assign platform number to trains using PHP , MySQL
